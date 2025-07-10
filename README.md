@@ -4,10 +4,10 @@ Welcome to my GitHub profile!
 
 ### 🌱 Currently Learning
 
-- **Java & Vert.x** – for building reactive backend systems  
-- **gRPC** – for efficient service-to-service communication  
-- **Rust** – exploring systems-level performance and safety  
-- **Python** – scripting and automation projects  
+- **Java & Vert.x** – for building reactive backend systems.  
+- **gRPC** – for efficient service-to-service communication.  
+- **Rust** – exploring systems-level performance and safety.  
+- **Python** – scripting and automation projects.  
 
 ### 💡 Interests
 
