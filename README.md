@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 - **Java & Vert.x** – for building reactive backend systems.  
 - **gRPC** – for efficient service-to-service communication.  
-- **Rust** – exploring systems-level performance and safety.  
+- **TypeScript** – for type-safe JavaScript across frontend and Node.js.
 - **Python** – scripting and automation projects.  
 
 ### 💡 Interests
