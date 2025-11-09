@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 - Chess ♟️ 
 - Muay Thai 🥊  
-- Coding 💻
+- [LeetCode](https://leetcode.com/u/MahirC2/) 💻
 
 ### 🧠 Projects & Achievements
 
