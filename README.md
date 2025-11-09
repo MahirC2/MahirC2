@@ -15,6 +15,13 @@ Welcome to my GitHub profile!
 - Muay Thai 🥊  
 - Coding 💻
 
+### 🧠 Projects & Achievements
+
+- 🏆 **Goldman Sachs Apprentice Hackathon Winner (2025)**  
+  - Collaborated in a team to develop a **time-series anomaly detection system** for monitoring global network traffic data (daily JSON timeseries).  
+  - Built an **ensemble model** combining **Prophet**, **Isolation Forest**, and **CBLOF** to detect unusual traffic patterns.  
+  - Focused on the **Prophet** component, tuning and integrating it for trend forecasting and anomaly detection.
+
 ### 🤝 Collaboration
 
 I'm open to collaborating on upcoming projects.
