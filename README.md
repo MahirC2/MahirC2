@@ -4,15 +4,14 @@ Welcome to my GitHub profile!
 
 ### 🌱 Currently Learning
 
-- **Java & Vert.x** – for building reactive backend systems.  
-- **gRPC** – for efficient service-to-service communication.  
-- **TypeScript** – for type-safe JavaScript across frontend and Node.js.
+- **Java & Vert.x** – for building reactive backend systems.   
+- **C++** – for low-latency programming.
 - **Python** – scripting and automation projects.  
 
 ### 💡 Interests
 
 - Chess ♟️ 
-- Muay Thai 🥊  
+- Muay Thai 🥊
 - [LeetCode](https://leetcode.com/u/MahirC2/) 💻
 
 ### 🧠 Projects & Achievements
