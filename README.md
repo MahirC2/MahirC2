@@ -8,23 +8,6 @@ Welcome to my GitHub profile!
 - **C++** – for low-latency programming.
 - **Python** – scripting and automation projects.  
 
-### 💡 Interests
-
-- Chess ♟️ 
-- Muay Thai 🥊
-- [LeetCode](https://leetcode.com/u/MahirC2/) 💻
-
-### 🧠 Projects & Achievements
-
-- 🏆 **Goldman Sachs Apprentice Hackathon Winner (2025)**  
-  - Collaborated in a team to develop a **time-series anomaly detection system** for monitoring global network traffic data (daily JSON timeseries).  
-  - Built an **ensemble model** combining **Prophet**, **Isolation Forest**, and **CBLOF** to detect unusual traffic patterns.  
-  - Focused on the **Prophet** component, tuning and integrating it for trend forecasting and anomaly detection.
-
-### 🤝 Collaboration
-
-I'm open to collaborating on upcoming projects.
-
 ### 🧪 Most Used Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahirc2&layout=compact&theme=github_dark)](https://github.com/mahirc2)
