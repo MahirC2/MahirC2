@@ -10,8 +10,8 @@ Welcome to my GitHub profile!
 
 ### 🧪 Most Used Languages
 
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahirc2)](https://github.com/mahirc2/github-readme-stats)
-
+[[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mahirc2)](https://github.com/mahirc2/github-readme-stats)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=MahirC2&layout=pie)
 
 ### 📬 Contact Me
 
